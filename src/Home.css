@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+  }
+  
+  .top-center {
+    width: 100%;
+    height: 10%;
+  }
+  
+  .bottom-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 90%;
+  }
+  
+  .bottom-left {
+    width: 65;
+    height: 100%;
+  }
+  
+  .bottom-right {
+    width: 35%;
+    height: 100%;
+  }
+  
+  

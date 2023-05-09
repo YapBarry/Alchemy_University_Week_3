@@ -1,0 +1,16 @@
+.container2 {
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .left-column2 {
+    width: 20%;
+    height: 100%;
+  }
+  
+  .right-column2 {
+    width: 80%;
+    height: 100%;
+  }
+  
