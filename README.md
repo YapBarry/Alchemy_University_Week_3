@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/afd59753-0562-4cc2-a576-ed27332d251a)
+
 # Ethereum Block Explorer
 
 The lessons this week covered the Ethereum JSON-RPC API and the `ethers.js` library giving us the ability to query the Ethereum blockchain and make transactions!
